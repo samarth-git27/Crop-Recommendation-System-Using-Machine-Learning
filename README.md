@@ -64,5 +64,5 @@ This project solves the problem by using **data-driven machine learning** instea
   - Rainfall
 - **Target:** Recommended Crop (`label`)
 
-📁 Dataset location:
+📁 Dataset location: https://1drv.ms/x/c/759e23423bd55488/IQATSZ7qr3wmSaN8Xe_oWjtGARLQpLBcbTzHu3F3P24GIQQ?e=14lqfZ
 
